@@ -12,7 +12,7 @@
 
 # Python
 
-![weblink](https://www.forparkinson.com/BigDataChapter/blog/2019/09/27/python-cheatsheet)
+[weblink](https://www.forparkinson.com/BigDataChapter/blog/2019/09/27/python-cheatsheet)
 ![](https://www.forparkinson.com/BigDataChapter/assets/img/2019-09-28/Data_Science_With_Python_Workflow.png)
 
 ![](https://www.forparkinson.com/BigDataChapter/assets/img/2019-09-28/python_basics-1.png)
